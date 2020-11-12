@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#principal{
+    width: 900px;
+    height: 650px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+header{
+    width: 900px;
+    height: 100px;
+    border: 1px solid black
+}
+
+#logo{
+    width: 35%;
+    height: 98px;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+    line-height: 50px;
+    color: black;
+    background: lightgray;
+}
+
+.menu{
+    width: 583px;
+    height: 100px;
+    float: right;
+    text-align: right;
+    line-height: 100px;
+    color: black;
+    background: lightgray;
+}
+
+.menu ul{}
+
+.menu ul li{
+    list-style: none;
+    float: left;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    padding: 10px 100px;
+}
+
+#olo h2{
+    line-height: 50px;
+    float: center;
+    
+
+    
+}
+
+#olo{
+    height: 500px;
+}
+
+footer{
+    background: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+
+}
